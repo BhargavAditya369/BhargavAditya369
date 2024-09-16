@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning FullStackDevelopment
 - 💞️ I’m looking to collaborate on font-endProjects
-- 📫 How to reach me in/bhargav-aditya-536775229
+- 📫 How to reach me in 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The word 'Git' is British slang for a foolish or unpleasant person. Linus Torvalds humorously chose the name because he described himself as an 'egotistical bastard' who enjoys naming projects after himself!
 
